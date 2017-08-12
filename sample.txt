@@ -1,3 +1,7 @@
 1.0
 
-this is to illustrate stash command so that i can temp store the data
+
+i would like to add something here , so i can use a command where 
+
+I can get this data using some kind of buffer 
+
