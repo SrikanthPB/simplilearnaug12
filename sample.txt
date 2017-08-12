@@ -1,7 +1,5 @@
 1.0
 
-
 i would like to add something here , so i can use a command where 
 
 I can get this data using some kind of buffer 
-
